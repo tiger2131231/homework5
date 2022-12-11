@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: #1e293b;
+    box-sizing: border-box;
+}
+.nav{
+    min-height: 42px;
+    display: flex;
+    justify-content:center;
+}
+.nav-item{
+color: gray;
+list-style: none;
+margin:0 8px;
+display: inline-block;
+}
+.item1{
+    font-size: 1rem;
+}
+.nav-list{
+    padding-left: 0;
+    margin: auto 16px;
+}
+.item2{
+    font-size: 1.2rem;
+}
+.item3{
+    Background-color: #0f172a;
+    width: 15px;
+}
